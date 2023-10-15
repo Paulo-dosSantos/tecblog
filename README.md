@@ -1,0 +1,1 @@
+Embora me identifique como um back-end, também me vejo na necessidade de estudar front-end para uma melhor compreensão de projetos como um todo. Mediante a isto, este projeto faz parte dos meus treinamentos com front-end no curso de Desenvolvimento Web dos professores Jorge Sant Ana e Jamilton Damasceno da plataforma Udemy. No momento, o projeto contará apenas com HTML e CSS.
